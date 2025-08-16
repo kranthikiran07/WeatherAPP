@@ -29,7 +29,7 @@ API: OpenWeather API
 
 Clone the repository:
 
-git clone https://github.com/your-username/weather-application.git
+git clone https://github.com/kranthikiran07/WeatherAPP.git
 
 
 Open the project folder.
@@ -59,3 +59,4 @@ Create a new branch (feature-xyz)
 Commit your changes
 
 Push and create a PR
+
